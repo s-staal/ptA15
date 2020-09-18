@@ -1,0 +1,3 @@
+avocado 9
+banana 22
+papaya 5

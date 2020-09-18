@@ -1,0 +1,6 @@
+Please input the filenames
+apple 24
+banana 28
+mango 8
+orange 30
+pineapple 20
